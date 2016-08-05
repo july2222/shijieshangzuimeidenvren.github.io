@@ -1,0 +1,6 @@
+{
+  "name": "Shijieshangzuimeidenvren.GitHub.io",
+  "tagline": "catch me if u can",
+  "body": "\r\n\r\n## 项目说明\r\n此项目仅供非程序员以及小白为不可描述对象提供礼物惊喜时使用，不具备任何学习价值。\r\n本项目产生于某个下午一时脑洞大开，并且不打算进行任何维护以及规范。\r\n\r\n## 扩展\r\n已经看到不少进行了扩展了哥们，添加了很多不错的样式以及加入了背景音乐以及页面动画效果。\r\n如果你觉得自己的repo很赞，并且也想跟大家分享，欢迎联系，我会在这里把大家扩展的repo都贴出来以供学习。\r\n\r\n\r\n\r\n## 以下针对经常被提及的问题进行说明\r\n### 页面跳转问题\r\n     <a href=\"https://shijieshangzuimeidenvren.github.io\" class=\"thumbnail\">\r\n     \t<img src=\"img/4.jpg\" alt=\"...\">\r\n     </a>\r\n     \r\n     以上 <a> 标签的地址指向了我的网站，更改为 <a href=\"#\" class=\"thubnail\"> 可以在点击图片时不跳转到我的网站\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
